@@ -1,1 +1,2 @@
 hotfix dialog
+this is only X, Y
